@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
   <img src="./Image.jpg" alt="Size Limit CLI" width="1200" "HI">
 </p>
