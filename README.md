@@ -14,5 +14,4 @@ Once upon the time, I have fallen in love with deep learning engineer. It took m
 
 
 
-# Neural Networks and Deep Learning 
-currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available. 
+### Neural Networks and Deep Learning currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available. 
