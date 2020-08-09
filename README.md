@@ -7,11 +7,9 @@
 </p>
 
 
-currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available. 
 
-
-Once upon the time, I have fallen in love with deep learning engineer. It took me months to learn to code. Nowadays, I am having fun with Python. I love math and code in Python.( I know R but Python is better for me). 👯 I’m looking to collaborate on other content creators.
+Once upon the time, I have fallen in love with deep learning engineer. It took me months to learn to code. Nowadays, I am having fun with Python. I love math and code in Python.( I know R but Python is better for me). 👯 I’m looking to collaborate on other content creators.:D
 
 
 
-### Neural Networks and Deep Learning currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available. 
+###### Neural Networks and Deep Learning currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available. 
