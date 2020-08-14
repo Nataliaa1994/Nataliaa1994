@@ -7,9 +7,4 @@
 </p>
 
 
-
-Once upon the time, I have fallen in love with deep learning engineer. It took me months to learn to code. Nowadays, I am having fun with Python. I love math and code in Python.( I know R but Python is better for me). 👯 I’m looking to collaborate on other content creators.
-
-
-
- 
+ Once upon a time, I fell in love with deep learning. It took me months to learn to code. Nowadays, I am have fun tinkering in Python. I love maths and coding in Python.( I know R but Python is better for deep learning applications). 👯 I look forward to collaborating with other content creators.
