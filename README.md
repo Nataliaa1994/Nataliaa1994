@@ -3,7 +3,7 @@
 ###### Neural Networks and Deep Learning currently provide some of the most reliable image recognition, speech recognition, and Natural Language Processing solutions available.
  
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Nataliaa1994/Nataliaa1994/master/Image.jpg" alt="Size Limit CLI" width="1000">
+  <img src="https://raw.githubusercontent.com/Nataliaa1994/Nataliaa1994/master/avatar_249854e9_fa96_44d9_b077_7a19569b5b74_png_20200526_154211.png" alt="Size Limit CLI" width="500">
 </p>
 
 
