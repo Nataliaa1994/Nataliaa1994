@@ -11,4 +11,7 @@
  I love maths and coding in Python.( I know R but Python is better for deep learning applications).
  
  
+ Have a look at some of my projects on [Kaggle](https://www.kaggle.com/nataliaole/fashion-dataset-classifier?scriptVersionId=46262647) as well.
+ 
+ 
  👯 I look forward to collaborating with other content creators.
