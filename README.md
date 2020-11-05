@@ -13,5 +13,6 @@
  
  Have a look at some of my projects on [Kaggle](https://www.kaggle.com/nataliaole/fashion-dataset-classifier?scriptVersionId=46262647) as well.
  
+ Check out my latest project from Kaggle [Latest_project](https://www.kaggle.com/nataliaole/notebooks).
  
  👯 I look forward to collaborating with other content creators.
